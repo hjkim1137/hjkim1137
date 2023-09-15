@@ -35,3 +35,10 @@
     <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/>
   </div>
 </div>
+
+<div align="center">
+  <br>
+  <a href="https://github.com/hjkim1137/hjkim1137">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hjkim1137&layout=compact&langs_count=5&card_width=320" />
+</a>
+</div>
