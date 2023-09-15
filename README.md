@@ -1,4 +1,8 @@
-<h1 align="center">Hyunjung Kim</h1>
+<div align="center">
+  <h1 align="center">@hjkim1137🌮</h1>
+  <h4 align="center">Hi there, I'm Hyunjung Kim, a frontend developer based in Korea.</h4>
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Email-hyunbiz23@naver.com-30B980?style=flat-square&logo=Email&logoColor=white"/>
 <a href="https://paintover23.tistory.com"><img src="https://img.shields.io/badge/Blog-https://paintover23.tistory.com/-000000?style=flat-square&logo=Blog&logoColor=white"/></a>
