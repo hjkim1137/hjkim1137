@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">@hjkim1137🌮</h1>
-  <h4 align="center">Hi there, I'm Hyunjung Kim, a frontend developer based in Korea.</h4>
+  <h4 align="center">Hi there, I'm Hyunjung Kim, a developer based in Korea.</h4>
 </div>
 
 <div align="center">
